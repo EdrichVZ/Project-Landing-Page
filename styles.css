@@ -4,3 +4,13 @@ body {
     flex-direction: column;
     margin: 0;
 }
+
+.header {
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
