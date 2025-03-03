@@ -24,3 +24,14 @@ body {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.section1 {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10%;
+
+}
+
+
