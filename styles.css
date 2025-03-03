@@ -190,3 +190,18 @@ body {
     text-align: end;
 }
 
+.section4 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #3882f6;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 6px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
