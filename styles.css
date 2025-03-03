@@ -17,3 +17,10 @@ body {
     padding-right: 10%;
     padding-bottom: 10px;
 }
+
+.headerlinks {
+    display: flex;
+    gap: 25px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
