@@ -90,5 +90,19 @@ body {
 
 .s2container2 {
     display: flex;
+    
 }
+
+
+#image1 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #3882f6;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    align-content: center;
+    text-align: center;
+}
+
 
