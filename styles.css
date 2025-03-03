@@ -93,8 +93,13 @@ body {
 .s2container2 {
     display: flex;
     gap: 20px;
+    
 }
 
+#description1 {
+    width: 250px;
+    text-align: center;
+}
 
 
 #image1 {
