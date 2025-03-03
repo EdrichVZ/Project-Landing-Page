@@ -58,5 +58,19 @@ body {
     background-color: grey;
 }
 
+.s1button {
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #3882f6;
+    border-radius: 8px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
 
 
