@@ -92,7 +92,9 @@ body {
 
 .s2container2 {
     display: flex;
+    gap: 20px;
 }
+
 
 
 #image1 {
@@ -138,5 +140,7 @@ body {
     align-content: center;
     text-align: center;
 }
+
+
 
 
