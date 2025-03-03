@@ -193,6 +193,7 @@ body {
 .section4 {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     background-color: #3882f6;
     border-style: solid;
     border-color: #3882f6;
@@ -201,7 +202,17 @@ body {
     margin-bottom: 70px;
     margin-right: 20%;
     margin-left: 20%;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #f9faf8;
+}
+
+.s4container1 {
+    text-align: start;
+}
+
+#s4heading {
+    font-size: 18px;
+    font-weight: bold;
 }
 
