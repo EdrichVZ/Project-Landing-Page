@@ -93,6 +93,7 @@ body {
 .s2container2 {
     display: flex;
     gap: 25px;
+    padding-bottom: 30px;
     
 }
 
