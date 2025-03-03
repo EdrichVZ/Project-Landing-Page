@@ -88,3 +88,7 @@ body {
     font-weight: 900;
 }
 
+.s2container2 {
+    display: flex;
+}
+
