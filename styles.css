@@ -101,7 +101,7 @@ a {
     
 }
 
-#image1 {
+#image1, #image2, #image3, #image4 {
     border-width: 5px;
     border-style: solid;
     border-color: #3882f6;
@@ -112,58 +112,7 @@ a {
     text-align: center;
 }
 
-#description1 {
-    color: #1f2937;
-    width: 200px;
-    text-align: center;
-}
-
-#image2 {
-    border-width: 5px;
-    border-style: solid;
-    border-color: #3882f6;
-    border-radius: 20px;
-    width: 200px;
-    height: 200px;
-    align-content: center;
-    text-align: center;
-}
-
-#description2 {
-    color: #1f2937;
-    width: 200px;
-    text-align: center;
-}
-
-#image3 {
-    border-width: 5px;
-    border-style: solid;
-    border-color: #3882f6;
-    border-radius: 20px;
-    width: 200px;
-    height: 200px;
-    align-content: center;
-    text-align: center;
-}
-
-#description3 {
-    color: #1f2937;
-    width: 200px;
-    text-align: center;
-}
-
-#image4 {
-    border-width: 5px;
-    border-style: solid;
-    border-color: #3882f6;
-    border-radius: 20px;
-    width: 200px;
-    height: 200px;
-    align-content: center;
-    text-align: center;
-}
-
-#description4 {
+#description1, #description2, #description3, #description4 {
     color: #1f2937;
     width: 200px;
     text-align: center;
